@@ -79,7 +79,7 @@ public class Pt2 implements Serializable {
 				System.out.println("Volsguardar-lo (s/n)?");
 				if (dades.next().equals("s")) {
 					x.cursos.put(id, c);
-					System.out.println("HIHAN " + x.cursos.size() + " CURSOS");
+					System.out.println("HI HAN " + x.cursos.size() + " CURSOS");
 				}
 				break;
 			case 2:
